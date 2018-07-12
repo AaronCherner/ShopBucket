@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="ShopBucket:war">
+    <output-path>$PROJECT_DIR$/target</output-path>
+    <root id="archive" name="shop-bucket.war">
+      <element id="artifact" artifact-name="ShopBucket:war exploded" />
+    </root>
+  </artifact>
+</component>
